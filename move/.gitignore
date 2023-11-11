@@ -1,0 +1,5 @@
+# Move build dependencies
+build/
+
+# Aptos CLI
+.aptos
